@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Contact - Geogon School</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+  <div class="header-bar">
+    <div class="header-left">
+      <img src="images/mylogo.png" alt="Geogon School Logo" class="logo" />
+      <h2 class="school-name">Geogon School</h2>
+    </div>
+    <nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="subjects.html">Subjects & Packages</a>
+  <a href="booking.html">Booking</a>
+  <a href="tutoring.html">Tutoring</a>
+  <a href="gallery.html">Gallery</a>
+  <a href="payment.html">Payment Info</a>
+  <a href="contact.html" class="active">Contact</a>
+</nav>
+  </div>
+</header>
+
+  <section>
+    <h2>Contact Us</h2>
+    <p>Email: <a href="mailto:geogonschool9@gmail.com">geogonschool9@gmail.com</a></p>
+    <p>Phone: 0746475611</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Geogon School Online Learning. All rights reserved.</p>
+  </footer>
+</body>
+</html>

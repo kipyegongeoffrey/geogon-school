@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Tutoring - Geogon School</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+  <div class="header-bar">
+    <div class="header-left">
+      <img src="images/mylogo.png" alt="Geogon School Logo" class="logo" />
+      <h2 class="school-name">Geogon School</h2>
+    </div>
+    <nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="subjects.html">Subjects & Packages</a>
+  <a href="booking.html">Booking</a>
+  <a href="tutoring.html" class="active">Tutoring</a>
+  <a href="gallery.html">Gallery</a>
+  <a href="payment.html">Payment Info</a>
+  <a href="contact.html">Contact</a>
+</nav>
+    <h1>Join Your Live Tutoring Sessions 🌐</h1>
+    <p>Flexible, interactive, and fully online. Choose your preferred platform below.</p>
+  </header>
+
+  <section>
+    <h2>📅 Upcoming Sessions</h2>
+    <p>Before joining, please make sure you have booked and received your session link. You can choose any of these platforms:</p>
+
+    <div class="platforms-grid">
+      <div class="platform-card">
+        <img src="images/mylogo.png" title="brands and logotypes icons">Brands and logotypes icons created by Freepik - Flaticon</a>" alt="Zoom" class="platform-icon">
+        <h3>Zoom</h3>
+        <p>Join using Zoom for high-quality video and screen sharing.</p>
+        <a href="https://zoom.us/j/your-session-link" target="_blank" class="btn-primary">Join Zoom Session</a>
+      </div>
+
+      <div class="platform-card">
+        <img src="images/mylogo.png" alt="Google Meet" class="platform-icon">
+        <h3>Google Meet</h3>
+        <p>Join easily using your Google account and no software installation required.</p>
+        <a href="https://meet.google.com/your-meet-link" target="_blank" class="btn-secondary">Join Google Meet</a>
+      </div>
+
+      <div class="platform-card">
+        <img src="images/teams-logo.png" alt="Teams" class="platform-icon">
+        <h3>Microsoft Teams</h3>
+        <p>Join your session on Teams for smooth collaboration and file sharing.</p>
+        <a href="https://teams.microsoft.com/l/meetup-join/your-teams-link" target="_blank" class="btn-primary">Join Teams</a>
+      </div>
+    </div>
+
+    <p>Need help? <a href="contact.html">Contact us</a> for assistance with links or technical support.</p>
+  </section>
+
+  <footer>
+    <p>Contact: geogonschool9@gmail.com | Phone: 0746475611</p>
+    <p>&copy; 2025 Geogon School Online Learning. All rights reserved.</p>
+  </footer>
+</body>
+</html>

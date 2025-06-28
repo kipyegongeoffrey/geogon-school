@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Subjects & Packages - Geogon School</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+  <div class="header-bar">
+    <div class="header-left">
+      <img src="images/mylogo.png" alt="Geogon School Logo" class="logo" />
+      <h2 class="school-name">Geogon School</h2>
+    </div>
+    <nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="subjects.html" class="active">Subjects & Packages</a>
+  <a href="topics.html">topics</a>
+  <a href="booking.html">Booking</a>
+  <a href="tutoring.html">Tutoring</a>
+  <a href="gallery.html">Gallery</a>
+  <a href="payment.html">Payment Info</a>
+  <a href="contact.html">Contact</a>
+</nav>
+  </div>
+</header>
+
+  <section>
+    <h2>Subjects Offered</h2>
+    <div class="subjects-grid">
+      <div class="subject-card">
+        <h3>Mathematics</h3>
+        <p>8-4-4 & IGCSE Year 7–12</p>
+      </div>
+      <div class="subject-card">
+        <h3>Computer Studies</h3>
+        <p>8-4-4 Curriculum</p>
+      </div>
+      <div class="subject-card">
+        <h3>Computer Science</h3>
+        <p>IGCSE Curriculum</p>
+      </div>
+      <div class="subject-card">
+        <h3>ICT</h3>
+        <p>IGCSE Curriculum</p>
+      </div>
+    </div>
+
+    <div class="packages-grid">
+  <a href="booking.html?hours=1" class="package-card">
+    <h3>1 Hour</h3>
+    <p>Ksh 1,000</p>
+  </a>
+  <a href="booking.html?hours=2" class="package-card popular">
+    <h3>2 Hours</h3>
+    <p>Ksh 1,800</p>
+  </a>
+  <a href="booking.html?hours=3" class="package-card">
+    <h3>3 Hours</h3>
+    <p>Ksh 2,800</p>
+  </a>
+</div>
+  </section>
+
+  <footer>
+    <p>Contact: geogonschool9@gmail.com | Phone: 0746475611</p>
+    <p>&copy; 2025 Geogon School Online Learning. All rights reserved.</p>
+  </footer>
+</body>
+</html>
